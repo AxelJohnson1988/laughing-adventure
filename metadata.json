@@ -1,0 +1,8 @@
+{
+  "name": "Laughing Adventure - Test PDF",
+  "description": "Interactive PDF tester, inspector, and viewer tool for verifying and debugging PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
